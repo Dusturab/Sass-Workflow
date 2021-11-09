@@ -1,0 +1,1 @@
+{"mappings":"AACA;EACE,YAFI","sources":["src/scss/main.scss"],"sourcesContent":["$red: pink;\nbody {\n  background: $red;\n}\n"],"names":[],"version":3,"file":"index.603968dc.css.map","sourceRoot":"/__parcel_source_root/"}
